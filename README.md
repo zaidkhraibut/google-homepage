@@ -1,6 +1,6 @@
 # google-homepage
 
-You can view the completed project [here](https://zaidkhraibut.github.io/google-homepage/)
+You can view the completed project [here](https://zaidkhraibut.github.io/google-homepage/).
 
 In this challenge I recreate the Google homepage used basic (and some intermediate) HTML and CSS. 
 
