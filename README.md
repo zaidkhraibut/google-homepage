@@ -16,7 +16,8 @@ Some insight I've gained after completing this project:
 
 4.  Using the psuedoclass :focus with the property outline:none blew my mind. This elimanates the browsers default box highlighting when boxes come into focus. Very easy to implement but it gets rid of the tell-tale sign of a begginer's website.
 
-5.  Setting a min-width: on the footer was an incredibly easy way to increase website responsiveness. This made sure my footer did not overlap onto itself when resizing my browser. As you pull your browser in horizontally, the right or left footer will move closer and closer to it's opposite side. Setting a min:width 960px (the number that was recommended as the standard) makes sure you elements stop moving once the footer becomes smaller than 960px; instead, your browser will now leave those elements where they are and continue to narrow without taking either side with it (which would eventually lead to both sides of the footer overlapping). Open up the project and start to pull in your browser window to see what I mean!
+5.  Setting a min-width: on the footer was an incredibly easy way to increase website responsiveness. This made sure my footer did not overlap onto itself when resizing my browser. As you pull your browser in horizontally, the right or left footer will move closer and closer to it's opposite side. Setting a min:width 960px makes sure your elements stop moving once the footer becomes smaller than 960px; instead, your browser will now leave those elements where they are and continue to narrow without taking either side with it. Open up the project and start to pull in your browser window to see what I mean!
+    
 
 A few challenges I faced while completing this project:
 
