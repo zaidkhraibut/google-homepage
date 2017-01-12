@@ -125,6 +125,7 @@ ul {
   background-color: transparent;
   font: 13px Arial;
   background-color: #f2f2f2;
+  min-width: 960px; /*This helps with webpage responsiveness and prevents the footer from overlapping over itself when resizing your browser */
 }
 
 #footer a {
