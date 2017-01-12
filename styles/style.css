@@ -75,6 +75,7 @@ input:focus {
 
 #header {
   height: 50px;
+  min-width: 960px;
 }
 
 ul {
@@ -156,6 +157,14 @@ ul {
 .footer-right {
   margin-right: 29px;
   margin-top: 2px;
+}
+
+#logo-box {
+  min-width: 960px;
+}
+
+#image-searchbar-buts {
+  min-width: 960px;
 }
 
 /* {
