@@ -1,5 +1,7 @@
 # google-homepage
 
+You can view the completed project [here](https://zaidkhraibut.github.io/google-homepage/)
+
 In this challenge I recreate the Google homepage used basic (and some intermediate) HTML and CSS. 
 
 I learned a lot during this project and I think it's a fantastic place to start if you're just setting out to learn web development. Not only did I learn quite a bit about HTML and CSS, but it also reinforced the use of git and the command line. 
@@ -26,10 +28,10 @@ A few challenges I faced while completing this project:
 
 4.  Not so much a challenge, but I'm very eager to learn about responsive layouts. 
 
-You can view the completed project [here](https://zaidkhraibut.github.io/google-homepage/)
+
 
 Zaid Khraibut
 
 
 
-This was a project completed for [The Odin Project](http://www.theodinproject.com/web-development-101/html-css)
+This project was completed as part of [The Odin Project](http://www.theodinproject.com/web-development-101/html-css) curriculum.
