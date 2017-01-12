@@ -29,8 +29,20 @@ form > button {
   margin-left: 3px;
   background: #f1f1f1;
   color: #75767e;
-  font-size: 13px;
+  font-size: 12.5px;
   font-weight: bold;
+}
+
+#buttons > button:focus {
+  outline: none;
+}
+
+#buttons > button:hover {
+  font-weight: 700;
+  color: black;
+  border: 1px solid lightgrey;
+  box-shadow: 0.5px 0.5px 3px 0.5px lightgrey;
+  background: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
 }
 
 form > #textbox {
