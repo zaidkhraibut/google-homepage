@@ -22,5 +22,10 @@ A few challenges I faced while completing this project:
 
 3.  I wasn't able to figure out how to style an image into the navbar and position it properly. This is a very common web convention and I'm thinking it might have something to do with <img> being an inline element by default. I plan on taking a look into this and hopefully I can implete this feature in future projects. 
 
+You can view the completed project [here](https://zaidkhraibut.github.io/google-homepage/)
 
-From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
+Zaid Khraibut
+
+
+
+This was a project completed for [The Odin Project](http://www.theodinproject.com/web-development-101/html-css)
