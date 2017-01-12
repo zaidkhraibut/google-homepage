@@ -61,13 +61,49 @@ input:focus {
   outline:none;
 }
 
+#header {
+  height: 50px;
+}
+
+ul {
+  margin: 10px;
+  padding: 0;
+  float: right;
+}
+
 .navbar {
   display: inline-block;
   font-family: Arial;
   font-size: 13px;
   color: #404040;
+  margin-right: 20px;
 }
 
-/*div {
-  border: 2px dashed black;
-}*/
+.navbar a {
+  text-decoration: none;
+  color: #404040;
+}
+
+.navbar button {
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #4585f2;
+  border-radius: 2px;
+  border: none;
+  height: 30px;
+  width: 70px;
+}
+
+#footer {
+  height: 50px;
+  border: 1px black solid;
+}
+
+.footer-left, .footer-right {
+  display: inline-block;
+}
+
+/* {
+ border: 1px dashed black;
+}
