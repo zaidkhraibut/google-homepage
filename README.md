@@ -2,7 +2,7 @@
 
 You can view the completed project [here](https://zaidkhraibut.github.io/google-homepage/).
 
-< In this challenge I recreate the Google homepage used basic (and some intermediate) HTML and CSS.
+# In this challenge I recreate the Google homepage used basic (and some intermediate) HTML and CSS.
 
 I learned a lot during this project and I think it's a fantastic place to start if you're just setting out to learn web development. Not only did I learn quite a bit about HTML and CSS, but it also reinforced the use of git and the command line.
 
